@@ -5,7 +5,7 @@
 
 ## My name is Renan Costa
 React JS | Next JS | Javascript | HTML | CSS | Typescript | Node.js | VTEX 🚀
-- 👩‍💻 Digital Solutions Consultant @[Capgemini](https://www.capgemini.com/)
+- 👩‍💻 Open To Work
 - 🌐 Passionate about web development
 - 💡 Driven by curiosity
 
