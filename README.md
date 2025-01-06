@@ -5,7 +5,7 @@
 
 ## My name is Renan Costa
 React JS | Next JS | Javascript | HTML | CSS | Typescript | Node.js | VTEX 🚀
-- 👩‍💻 Open To Work
+- 👩‍💻 Working from Home @Zee.Dog
 - 🌐 Passionate about web development
 - 💡 Driven by curiosity
 
