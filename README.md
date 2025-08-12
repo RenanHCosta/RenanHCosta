@@ -5,7 +5,7 @@
 
 ## My name is Renan Costa
 React JS | Next JS | Javascript | HTML | CSS | Typescript | Node.js | VTEX 🚀
-- 👩‍💻 Working from Home @mizuiTeam
+- 👩‍💻 Working from Home @ZeeDog
 - 🌐 Passionate about web development
 - 💡 Driven by curiosity
 
