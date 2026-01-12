@@ -1,8 +1,22 @@
-<h2>Hi There, I'm Renan Henrique 👋</h2>
+# Hi, I'm Renan 👋
 
+Senior Frontend Engineer with 5+ years of experience building **performant**, **scalable** web applications, especially in **e-commerce** and API-driven platforms.
+
+Strong background in **JavaScript/TypeScript** and modern frontend frameworks. Currently transitioning toward **Backend development with Java** and distributed systems.
+
+---
+
+## Tech Stack
+
+- JavaScript / TypeScript  
+- React, Next.js, Vue 3, Svelte, Preact  
+- Node.js, Deno, Java  
+- REST APIs, SQLite, Redis  
+- AWS (S3, CloudFront, Route 53)  
+- Clean Code, Design Patterns, Testing (Jest)
+
+---
+
+## 📫 Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1233cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-henrique-540314166/)](https://www.linkedin.com/in/renan-henrique-540314166/)
 [![Gmail Badge](https://img.shields.io/badge/-renanh3l@gmail.com-1233cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanh3l@gmail.com)](mailto:renanh3l@gmail.com)
-
-<p>I'm a Software Engineer at @ZeeDog with 5+ years of professional experience. I specialize in Frontend development and also have expertise with Node.js, React Native.</p>
-
-<p>I started coding at 10 and built a *Dragon Ball Z* MMORPG game at 16.</p>
