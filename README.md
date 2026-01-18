@@ -2,18 +2,18 @@
 
 Senior Frontend Engineer with 5+ years of experience building **performant**, **scalable** web applications, especially in **e-commerce** and API-driven platforms.
 
-Strong background in **JavaScript/TypeScript** and modern frontend frameworks. Currently transitioning toward **Backend development with Java** and distributed systems.
+Strong background in **JavaScript/TypeScript**, modern frontend frameworks, plus hands-on experience with Node.js backend development, including API design, integrations, and collaboration on full-stack architectures.
 
 ---
 
 ## Tech Stack
 
 - JavaScript / TypeScript  
-- React, Next.js, Vue 3, Svelte, Preact  
-- Node.js, Deno, Java  
-- REST APIs, SQLite, Redis  
-- AWS (S3, CloudFront, Route 53)  
-- Clean Code, Design Patterns, Testing (Jest)
+- React, Next.js, Vue 3, Svelte, Preact
+- Node.js, Deno, Express, Fastify, NestJS
+- REST APIs, PostgreSQL, MySQL, SQLite, Redis
+- AWS (S3, CloudFront, Route 53) 
+- Clean Code, Design Patterns, Testing
 
 ---
 
