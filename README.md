@@ -12,7 +12,7 @@ Strong background in **JavaScript/TypeScript**, modern frontend frameworks, plus
 - React, Next.js, Vue 3, Svelte, Preact
 - Node.js, Deno, Express, Fastify, NestJS
 - REST APIs, PostgreSQL, MySQL, SQLite, Redis
-- AWS (S3, CloudFront, Route 53) 
+- AWS & Cloudflare (S3/R2, CloudFront, Route 53) 
 - Clean Code, Design Patterns, Testing
 
 ---
