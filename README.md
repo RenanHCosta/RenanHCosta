@@ -1,6 +1,6 @@
 # Hi, I'm Renan 👋
 
-Senior Frontend Engineer with 5+ years of experience building **performant**, **scalable** web applications, especially in **e-commerce** and API-driven platforms.
+Software Engineer with 5+ years of experience building **performant**, **scalable** web applications, especially in **e-commerce** and API-driven platforms.
 
 Strong background in **JavaScript/TypeScript**, modern frontend frameworks, plus hands-on experience with Node.js backend development, including API design, integrations, and collaboration on full-stack architectures.
 
